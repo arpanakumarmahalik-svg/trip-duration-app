@@ -173,7 +173,7 @@ This project is open-source under the MIT License.
 
 ## 👩‍💻 Author
 
-**Arpana Kumar Mahalik)**
+**Arpana Kumar Mahalik**
 Diploma in IT | Odisha
 
 ---
